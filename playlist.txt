@@ -1,0 +1,26 @@
+[
+    {
+        "std": "http://video.aniland.org/2147405819.mp4",
+        "preview": "http://media.aniland.org/img/2147405819.jpg",
+        "name": "3 серия",
+        "hd": "http://video.aniland.org/720/2147405819.mp4"
+    },
+    {
+        "std": "http://video.aniland.org/2147405759.mp4",
+        "preview": "http://media.aniland.org/img/2147405759.jpg",
+        "name": "2 серия",
+        "hd": "http://video.aniland.org/720/2147405759.mp4"
+    },
+    {
+        "std": "http://video.aniland.org/2147405909.mp4",
+        "preview": "http://media.aniland.org/img/2147405909.jpg",
+        "name": "4 серия",
+        "hd": "http://video.aniland.org/720/2147405909.mp4"
+    },
+    {
+        "std": "http://video.aniland.org/2147405730.mp4",
+        "preview": "http://media.aniland.org/img/2147405730.jpg",
+        "name": "1 серия",
+        "hd": "http://video.aniland.org/720/2147405730.mp4"
+    }
+]
